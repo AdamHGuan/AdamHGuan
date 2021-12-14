@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello! I am Adam!
+
+[![AdamHGuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamHGuan&show_icons=true&theme=tokyonight)](https://github.com/AdamHGuan/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamHGuan&layout=compact&theme=tokyonight)](https://github.com/AdamHGuan/github-readme-stats)
+
+
 
 <!--
 **AdamHGuan/AdamHGuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
