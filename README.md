@@ -6,11 +6,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamHGuan&layout=compact&theme=tokyonight)](https://github.com/AdamHGuan/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHGuan&repo=Roly-Poly&theme=tokyonight)](https://github.com/AdamHGuan/Roly-Poly)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHGuan&repo=Roly-Poly&theme=tokyonight)](https://github.com/AdamHGuan/Roly-Poly)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHGuan&repo=molla&theme=tokyonight)](https://github.com/AdamHGuan/molla)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamHGuan&repo=molla&theme=tokyonight)](https://github.com/AdamHGuan/molla) -->
+
+#### Top Repositories
 
 
+<a href="https://github.com/AdamHGuan/Roly-Poly">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamHGuan&repo=Roly-Poly&theme=tokyonight" />
+</a>
+<a href="https://github.com/AdamHGuan/molla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamHGuan&repo=Roly-Poly&theme=tokyonight" />
+</a>
 
 
 <!--
