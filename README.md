@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamHGuan&repo=Roly-Poly&theme=tokyonight" />
 </a>
 <a href="https://github.com/AdamHGuan/molla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamHGuan&repo=Roly-Poly&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamHGuan&repo=molla&theme=tokyonight" />
 </a>
 
 
