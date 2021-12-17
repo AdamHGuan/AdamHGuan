@@ -19,6 +19,12 @@
 <a href="https://github.com/AdamHGuan/molla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamHGuan&repo=molla&theme=tokyonight" />
 </a>
+<a href="https://github.com/wylin94/AAw19d1-Tinybnb-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wylin94&repo=AAw19d1-Tinybnb-Clone&theme=tokyonight" />
+</a>
+<a href="https://github.com/CroissantAhhh/TwoLeftThumbs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CroissantAhhh&repo=TwoLeftThumbs&theme=tokyonight" />
+</a>
 
 
 <!--
