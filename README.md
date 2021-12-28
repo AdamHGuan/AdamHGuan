@@ -1,6 +1,6 @@
 ## Hello! I am Adam!
 
-### Check out my personal website [here](https://adamhguan.github.io/), and let's connect!
+## Check out my personal website [here](https://adamhguan.github.io/), and let's connect!
 
 ![AdamHGuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamHGuan&show_icons=true&theme=tokyonight)
 
