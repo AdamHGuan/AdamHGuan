@@ -40,7 +40,7 @@ In addition to software development, I am interested in science, technology, Aut
 <br/>  
 
 
-## Github Stats  
+<!-- ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 ![AdamHGuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamHGuan&show_icons=true&theme=tokyonight)
@@ -69,6 +69,6 @@ In addition to software development, I am interested in science, technology, Aut
 </a>
 <a href="https://github.com/CroissantAhhh/TwoLeftThumbs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CroissantAhhh&repo=TwoLeftThumbs&theme=tokyonight" />
-</a>
+</a> -->
 
 
