@@ -39,6 +39,7 @@ In addition to software development, I am interested in science, technology, Aut
 
 <br/>  
 
+<!-- [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/) -->
 
 <!-- ## Github Stats  
 <table><tr><td valign="top" width="50%">
