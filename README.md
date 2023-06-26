@@ -8,12 +8,24 @@
 </a>  
 
 
-### Glad to see you here!  
-I am a software engineer with an extensive background in Autonomous Vehicle Testing Operations. I have experience building dynamic full-stack web applications using JavaScript, Python, React, Redux, HTML, CSS, PostgreSQL, SQLAlchemy, Flask, Node.js, Express, and Docker.
+### Welcome! I'm thrilled you're here.
 
-In addition to software development, I am interested in science, technology, Autonomous vehicles, and Cloud Computing. 
+I am a Software Development Engineer in Test (SDET) with expertise in web application testing, specializing in Cypress. I ensure the quality and reliability of web apps through comprehensive testing strategies and efficient automation.
+
+With a strong background in testing web applications, I leverage Cypress, an advanced JavaScript-based framework, to create robust test suites, perform end-to-end testing, and execute integration and regression tests. By utilizing Cypress, I streamline the testing process and provide valuable insights to enhance the user experience.
+
+Additionally, I have experience in testing self-driving car systems. This expertise enables me to contribute to the development of autonomous vehicles by designing and executing rigorous testing methodologies.
+
+Beyond testing, I have a solid foundation in full-stack web development, including JavaScript, Python, React, Redux, HTML, CSS, PostgreSQL, SQLAlchemy, Flask, Node.js, Express, and Docker. This allows me to collaborate effectively with development teams and ensure seamless software delivery.
+
+Passionate about the latest advancements in science, technology, and cloud computing, I continuously explore new tools and techniques to enhance software quality.
+
+Feel free to reach out to me—I'm excited to embark on new projects and contribute to their success.
+
   
-### Check out [my personal website](https://adamhguan.github.io/), and [let's connect!](https://www.linkedin.com/in/adam-g-86922aa0/)
+### [let's connect through Linkedin!](https://www.linkedin.com/in/adam-g-86922aa0/)
+
+<!-- Check out [my personal website](https://adamhguan.github.io/) -->
 
 
 <br/>  
