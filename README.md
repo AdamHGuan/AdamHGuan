@@ -12,7 +12,7 @@
 
 I am a skilled Software Development Engineer in Test (SDET) specializing in web application testing, with expertise in Cypress. My extensive experience in testing web applications enables me to create robust test suites, perform end-to-end testing, and execute integration and regression tests using Cypress. I also have experience in testing self-driving car systems. 
 
-In addition to testing, I have a solid background in full-stack web development, including JavaScript, Python, React, Redux, HTML, CSS, PostgreSQL, SQLAlchemy, Flask, Node.js, Express, and Docker. This allows me to work collaboratively with development teams and ensure seamless software delivery.
+In addition to testing, I have a solid background in full-stack web development, including JavaScript, Python, Vue, Ruby on Rails, React, Cypress, Redux, HTML, CSS, PostgreSQL, SQLAlchemy, Flask, Node.js, Express, and Docker. This allows me to work collaboratively with development teams and ensure seamless software delivery.
 
 Passionate about the latest advancements in science, technology, and cloud computing, I continuously explore new tools and techniques to enhance software quality. If you have any questions or would like to discuss anything further, please don't hesitate to reach out to me.
 
