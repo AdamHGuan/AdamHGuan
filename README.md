@@ -10,17 +10,11 @@
 
 ### Welcome! I'm thrilled you're here.
 
-I am a Software Development Engineer in Test (SDET) with expertise in web application testing, specializing in Cypress. I ensure the quality and reliability of web apps through comprehensive testing strategies and efficient automation.
+I am a skilled Software Development Engineer in Test (SDET) specializing in web application testing, with expertise in Cypress. My extensive experience in testing web applications enables me to create robust test suites, perform end-to-end testing, and execute integration and regression tests using Cypress. I also have experience in testing self-driving car systems. 
 
-With a strong background in testing web applications, I leverage Cypress, an advanced JavaScript-based framework, to create robust test suites, perform end-to-end testing, and execute integration and regression tests. By utilizing Cypress, I streamline the testing process and provide valuable insights to enhance the user experience.
+In addition to testing, I have a solid background in full-stack web development, including JavaScript, Python, React, Redux, HTML, CSS, PostgreSQL, SQLAlchemy, Flask, Node.js, Express, and Docker. This allows me to work collaboratively with development teams and ensure seamless software delivery.
 
-Additionally, I have experience in testing self-driving car systems. This expertise enables me to contribute to the development of autonomous vehicles by designing and executing rigorous testing methodologies.
-
-Beyond testing, I have a solid foundation in full-stack web development, including JavaScript, Python, React, Redux, HTML, CSS, PostgreSQL, SQLAlchemy, Flask, Node.js, Express, and Docker. This allows me to collaborate effectively with development teams and ensure seamless software delivery.
-
-Passionate about the latest advancements in science, technology, and cloud computing, I continuously explore new tools and techniques to enhance software quality.
-
-Feel free to reach out to me!
+Passionate about the latest advancements in science, technology, and cloud computing, I continuously explore new tools and techniques to enhance software quality. If you have any questions or would like to discuss anything further, please don't hesitate to reach out to me.
 
   
 ### [let's connect through Linkedin!](https://www.linkedin.com/in/adam-g-86922aa0/)
